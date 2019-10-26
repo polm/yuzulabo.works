@@ -1,3 +1,15 @@
 #games {
   text-align: justify;
 }
+
+.button {
+  background-color: #F5FF48;
+  color: #4DAB53;
+  border: none;
+  box-shadow:none;
+  font-weight: bold;
+}
+
+.fa-twitter {
+  font-size: 3em;
+}

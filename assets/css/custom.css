@@ -93,3 +93,13 @@ button:active,
   color: #4DAB53;
 }
 */
+
+#header {
+  padding: 2em 0 2.75em 0 ;
+  /*background-attachment: scroll;*/
+}
+
+#footer {
+  padding: 3.25em 0 2em 0 ;
+  /*background-attachment: scroll;*/
+}

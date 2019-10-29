@@ -13,3 +13,83 @@
 .fa-twitter {
   font-size: 3em;
 }
+
+#header .inner {
+  -moz-transition: none;
+  -webkit-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -moz-transition-delay: 0;
+  -webkit-transition-delay: 0s;
+  -ms-transition-delay: 0;
+  transition-delay: 0;
+}
+
+#header .inner .actions {
+  -moz-transition: none;
+  -webkit-transition: none;
+  -ms-transition: none;
+  transition: none;  
+  -moz-transition-delay: 0;
+  -webkit-transition-delay: 0s;
+  -ms-transition-delay: 0;
+  transition-delay: 0;
+}
+
+#header:after {
+  -moz-transition: none;
+  -webkit-transition: none;
+  -ms-transition: none;
+  transition: none;  
+	background-image: none;
+  -moz-transition-delay: 0;
+  -webkit-transition-delay: 0s;
+  -ms-transition-delay: 0;
+  transition-delay: 0;
+}
+
+a:hover {
+  border-bottom-color: transparent !important;
+  background-color: #F5FF48;
+  color: #4DAB53;
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+button:hover,
+.button:hover {
+  background-color: #F5FF48;
+  color: #4DAB53;
+}
+    
+input[type="submit"]:active,
+input[type="reset"]:active,
+input[type="button"]:active,
+button:active,
+.button:active {
+  background-color: #F5FF48;
+  color: #4DAB53;
+}
+
+#footer a:hover {
+  color: #4DAB53;
+}
+
+/*
+#footer input[type="submit"]:hover,
+#footer input[type="reset"]:hover,
+#footer input[type="button"]:hover,
+#footer button:hover,
+#footer .button:hover {
+  color: #4DAB53;
+}
+
+#footer input[type="submit"]:active,
+#footer input[type="reset"]:active,
+#footer input[type="button"]:active,
+#footer button:active,
+#footer .button:active {
+  color: #4DAB53;
+}
+*/
